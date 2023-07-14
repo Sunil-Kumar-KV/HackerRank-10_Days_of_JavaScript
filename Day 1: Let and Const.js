@@ -21,19 +21,22 @@ process.stdin.on('end', _ => {
 function readLine() {
     return inputString[currentLine++];
 }
-/*
- * Create the function factorial here
- */
-function factorial(n){
-if(n>0 && n<=1){
-return n;
-}
-else{
-return n * factorial(n-1);
-}}
 
 function main() {
-    const n = +(readLine());
-    
-    console.log(factorial(n));
+    // Write your code here. Read input using 'readLine()' and print output using 'console.log()'.
+    const PI = Math.PI;
+    const number = readLine();
+    // Print the area of the circle:
+    console.log(PI*(number*number));
+    // Print the perimeter of the circle:
+    console.log(2*PI*number);
+
+    try {    
+        // Attempt to redefine the value of constant variable PI
+        PI = 0;
+        // Attempt to print the value of PI
+        console.log(PI);
+    } catch(error) {
+        console.error("You correctly declared 'PI' as a constant.");
+    }
 }
