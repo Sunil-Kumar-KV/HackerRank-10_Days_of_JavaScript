@@ -7,3 +7,4 @@
 ### 05: Day 1: Let and Const
 ### 06: Day 2: Conditional Statements: If-else
 ### 07: Day 2: Conditional Statements: Switch
+### 08: Day 2: Loops
