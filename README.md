@@ -8,3 +8,4 @@
 ### 06: Day 2: Conditional Statements: If-else
 ### 07: Day 2: Conditional Statements: Switch
 ### 08: Day 2: Loops
+### 08: Day 2: Loops
