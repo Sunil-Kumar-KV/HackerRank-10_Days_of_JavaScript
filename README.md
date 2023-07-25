@@ -1,7 +1,7 @@
 # HackerRank-10_Days_of_JavaScript
 
 ### 01: Day 0: Hello, World!
-Solutions : [Hello, Wold!](./Day 0: Hello, World!.js)
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 02: Day 0: Data Types
 ### 03: Day 0: Hello, World!
 ### 04: Day 1: Functions
