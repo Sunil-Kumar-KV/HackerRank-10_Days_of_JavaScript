@@ -9,6 +9,5 @@
 ### 07: Day 2: Conditional Statements: Switch
 ### 08: Day 2: Loops
 ### 08: Day 3: Arrays
-### 08: Day 3: Arrays
-### 08: Day 3: Arrays
-### 08: Day 3: Arrays
+### 08: Day 3: Try, Catch, and Finally
+### 08: Day 3: Throw
