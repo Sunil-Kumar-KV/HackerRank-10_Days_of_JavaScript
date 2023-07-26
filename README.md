@@ -15,6 +15,10 @@ Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 07: Day 2: Conditional Statements: Switch
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 2: Loops
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Arrays
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Try, Catch, and Finally
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Throw
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
