@@ -7,6 +7,7 @@ Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 03: Day 0: Hello, World!
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 04: Day 1: Functions
+Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 05: Day 1: Let and Const
 ### 06: Day 2: Conditional Statements: If-else
 ### 07: Day 2: Conditional Statements: Switch
