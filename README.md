@@ -5,7 +5,7 @@ Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 02: Day 0: Data Types
 Solutions : [Hello,Wold!](./Day0:DataTypes.js)
 ### 03: Day 0: Hello, World!
-Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
+Solutions : [Hello,Wold!](./Day1:Functions.js)
 ### 04: Day 1: Functions
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 05: Day 1: Let and Const
