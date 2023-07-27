@@ -11,11 +11,11 @@ Solutions : [Hello,Wold!](./Day1:LetandConst.js)
 ### 05: Day 1: Let and Const
 Solutions : [Hello,Wold!](./Day2:ConditionalStatements:If-Else.js)
 ### 06: Day 2: Conditional Statements: If-else
-Solutions : [Hello,Wold!](./Day2:ConditionalStatements:Switch)
+Solutions : [Hello,Wold!](./Day2:ConditionalStatements:Switch.js)
 ### 07: Day 2: Conditional Statements: Switch
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 2: Loops
-Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
+Solutions : [Hello,Wold!](./Day2:Loops.js)
 ### 08: Day 3: Arrays
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Try, Catch, and Finally
