@@ -17,7 +17,7 @@ Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 2: Loops
 Solutions : [Hello,Wold!](./Day2:Loops.js)
 ### 08: Day 3: Arrays
-Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
+Solutions : [Hello,Wold!](./Day3:Arrays.js)
 ### 08: Day 3: Try, Catch, and Finally
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Throw
