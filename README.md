@@ -21,4 +21,4 @@ Solutions : [Hello,Wold!](./Day3:Arrays.js)
 ### 08: Day 3: Try, Catch, and Finally
 Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 08: Day 3: Throw
-Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
+Solutions : [Hello,Wold!](./Day3:Throw.js)
