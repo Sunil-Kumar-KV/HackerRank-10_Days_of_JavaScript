@@ -5,7 +5,7 @@ Solutions : [Hello,Wold!](./Day0:Hello,World!.js)
 ### 02: Day 0: Data Types
 Solutions : [DataTypes](./Day0:DataTypes.js)
 ### 04: Day 1: Functions
-Solutions : [Hello,Wold!](./Day1:Functions.js)
+Solutions : [Functions](./Day1:Functions.js)
 ### 05: Day 1: Let and Const
 Solutions : [Hello,Wold!](./Day1:LetandConst.js)
 ### 06: Day 2: Conditional Statements: If-else
