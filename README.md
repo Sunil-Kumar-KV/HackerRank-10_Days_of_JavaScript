@@ -11,7 +11,7 @@ Solutions : [LetandConst](./Day1:LetandConst.js)
 ### 06: Day 2: Conditional Statements: If-else
 Solutions : [ConditionalStatements:If-else](./Day2:ConditionalStatements:If-Else.js)
 ### 07: Day 2: Conditional Statements: Switch
-Solutions : [Hello,Wold!](./Day2:ConditionalStatements:Switch.js)
+Solutions : [ConditionalStatements:Switch](./Day2:ConditionalStatements:Switch.js)
 ### 08: Day 2: Loops
 Solutions : [Hello,Wold!](./Day2:Loops.js)
 ### 08: Day 3: Arrays
