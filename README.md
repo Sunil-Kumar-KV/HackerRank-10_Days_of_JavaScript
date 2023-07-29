@@ -13,10 +13,10 @@ Solutions : [ConditionalStatements:If-else](./Day2:ConditionalStatements:If-Else
 ### 07: Day 2: Conditional Statements: Switch
 Solutions : [ConditionalStatements:Switch](./Day2:ConditionalStatements:Switch.js)
 ### 08: Day 2: Loops
-Solutions : [Hello,Wold!](./Day2:Loops.js)
+Solutions : [Loops](./Day2:Loops.js)
 ### 08: Day 3: Arrays
-Solutions : [Hello,Wold!](./Day3:Arrays.js)
+Solutions : [Arrays](./Day3:Arrays.js)
 ### 08: Day 3: Try, Catch, and Finally
-Solutions : [Hello,Wold!](./Day3:Try,Catch,andFinally.js)
+Solutions : [Try,Catch,andFinally](./Day3:Try,Catch,andFinally.js)
 ### 08: Day 3: Throw
-Solutions : [Hello,Wold!](./Day3:Throw.js)
+Solutions : [Throw](./Day3:Throw.js)
