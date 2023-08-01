@@ -20,3 +20,6 @@ Solutions : [Arrays](./Day3:Arrays.js)
 Solutions : [Try,Catch,andFinally](./Day3:Try,Catch,andFinally.js)
 ### 08: Day 3: Throw
 Solutions : [Throw](./Day3:Throw.js)
+
+### 09: Day 4: Create a Rectangle Object
+Solutions : [Create_a_RectangleObject](./Day4:Create_a_RectangleObject.js)
