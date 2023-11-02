@@ -26,3 +26,5 @@ Solutions : [Create_a_RectangleObject](./Day4:Create_a_RectangleObject.js)
 Solutions : [Classes](./Day4:Classes.js)
 ### 10: Day 5: Inheritance
 Solutions : [Inheritance](./Day5:Inheritance.js)
+### 10: Day 5: Inheritance
+Solutions : [Inheritance](./Day5:Inheritance.js)
