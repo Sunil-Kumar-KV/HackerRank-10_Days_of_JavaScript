@@ -28,3 +28,5 @@ Solutions : [Classes](./Day4:Classes.js)
 Solutions : [Inheritance](./Day5:Inheritance.js)
 ### 14: Day 5: Template Literals
 Solutions : [Inheritance](./Day5:TemplateLiterals.js)
+### 14: Day 5: Template Literals
+Solutions : [Inheritance](./Day5:TemplateLiterals.js)
