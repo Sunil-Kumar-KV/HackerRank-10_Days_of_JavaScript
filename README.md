@@ -22,8 +22,8 @@ Solutions : [Try,Catch,andFinally](./Day3:Try,Catch,andFinally.js)
 Solutions : [Throw](./Day3:Throw.js)
 ### 11: Day 4: Create a Rectangle Object
 Solutions : [Create_a_RectangleObject](./Day4:Create_a_RectangleObject.js)
-### 12: Day 4: 
-Solutions : [Classes](./Day4:Classes.js)
+### 12: Day 5: Arrow Functions
+Solutions : [Classes](./Day5ArrowFunctions.js)
 ### 13: Day 5: Inheritance
 Solutions : [Inheritance](./Day5:Inheritance.js)
 ### 14: Day 5: Template Literals
