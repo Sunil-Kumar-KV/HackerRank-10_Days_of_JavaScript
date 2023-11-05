@@ -25,6 +25,8 @@ Solutions : [Create_a_RectangleObject](./Day4:Create_a_RectangleObject.js)
 ### 13: Day 5: Inheritance
 Solutions : [Inheritance](./Day5:Inheritance.js)
 ### 14: Day 5: Template Literals
-Solutions : [Inheritance](./Day5:TemplateLiterals.js)
+Solutions : [TemplateLiterals](./Day5:TemplateLiterals.js)
 ### 15: Day 5: Arrow Functions
-Solutions : [Classes](./Day5ArrowFunctions.js)
+Solutions : [ArrowFunctions](./Day5:ArrowFunctions.js)
+### 16 Day 6: Bitwise Operators
+Solutions : [BitwiseOperators](./Day6:BitwiseOperators.js)
