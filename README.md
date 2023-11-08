@@ -30,3 +30,5 @@ Solutions : [TemplateLiterals](./Day5:TemplateLiterals.js)
 Solutions : [ArrowFunctions](./Day5:ArrowFunctions.js)
 ### 16 Day 6: Bitwise Operators
 Solutions : [BitwiseOperators](./Day6:BitwiseOperators.js)
+### 16 Day 6: Bitwise Operators
+Solutions : [BitwiseOperators](./Day6:BitwiseOperators.js)
