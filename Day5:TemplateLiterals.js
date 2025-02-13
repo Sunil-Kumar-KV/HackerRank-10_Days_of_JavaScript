@@ -32,7 +32,11 @@ function readLine() {
  * expressions: The tagged template literal's array of expression values (i.e., [area, perimeter]).
  */
 function sides(literals, ...expressions) {
-    
+    const [a, p] = expressions;
+return [
+        ((p - Math.sqrt((Math.pow(p, 2) - (16 * a)))) / 4),
+        ((p + Math.sqrt((Math.pow(p, 2) - (16 * a)))) / 4)
+    ];
 }
 
 
