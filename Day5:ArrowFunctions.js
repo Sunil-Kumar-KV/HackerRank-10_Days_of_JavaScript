@@ -29,7 +29,16 @@ function readLine() {
  * nums: An array of numbers.
  */
 function modifyArray(nums) {
-    
+    const result = [];
+    for(let i=0; i<nums.length; i++){
+        if(nums[i]%2 == 0){
+        result.push(nums[i]*2);
+        }
+        else{
+        result.push(nums[i]*3);
+        }
+    }
+    return result;
 }
 
 
